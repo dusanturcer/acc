@@ -1,0 +1,27 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://algarvecroquetclub.com/</loc>
+		<lastmod>2019-10-02T16:59:23.680Z</lastmod>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://algarvecroquetclub.com/contact.html</loc>
+		<lastmod>2019-10-02T16:59:23.680Z</lastmod>
+		<priority>0.90</priority>
+	</url>
+	<url>
+		<loc>https://algarvecroquetclub.com/news.html</loc>
+		<lastmod>2019-10-02T16:59:23.680Z</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://algarvecroquetclub.com/gallery.html</loc>
+		<lastmod>2019-10-02T16:59:23.680Z</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://algarvecroquetclub.com/constitution.html</loc>
+		<lastmod>2019-10-02T16:59:23.680Z</lastmod>
+		<priority>0.50</priority>
+	</url>
+</urlset>
